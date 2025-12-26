@@ -1,0 +1,7 @@
+{
+  "name": "Crystal Westie Christmas Tree",
+  "description": "An interactive 3D Christmas tree experience combining MediaPipe hand tracking and Three.js. Use a fist gesture to summon the tree and click to decorate it with adorable Westie puppies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
